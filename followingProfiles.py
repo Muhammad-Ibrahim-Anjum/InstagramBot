@@ -21,7 +21,7 @@ def login():
 	# To clear Already Exsisting username or email
 	username.clear()
 
-	user = "muhammad_ibrahim_anjum" #input("Enter Instagram UserName: \n")
+	user = "muhammadibrahimanjum" #input("Enter Instagram UserName: \n")
 
 	# Insert UserName or Email
 	username.send_keys(user)
@@ -32,7 +32,7 @@ def login():
 	# To clear Already Exsisting Passwords
 	Password.clear()
 
-	pwd = 'Ibmkhan1994'#input("Enter Password: \n")
+	pwd = '12345'#input("Enter Password: \n")
 
 	# Insert Password key
 	Password.send_keys(pwd)
